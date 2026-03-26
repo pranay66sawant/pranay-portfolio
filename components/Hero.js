@@ -14,10 +14,13 @@ export default function Hero() {
               Pranay<br />
               <span>Sawant</span>
             </h1>
-            <p className="hero-title">UI/UX Designer &amp; Frontend Developer</p>
-            <p className="hero-line">
-              I design clean, user-friendly digital experiences that solve real problems through thoughtful design and code.
-            </p>
+           <p className="hero-title">
+  Frontend Developer with UI/UX expertise & backend understanding
+</p>
+
+<p className="hero-line">
+  I build fast, scalable, and user-friendly web applications by combining design thinking, modern frontend technologies, and backend fundamentals.
+</p>
             <div className="hero-btns">
               <a href="#projects" className="btn-primary">View Work →</a>
               <a href="#contact" className="btn-outline">Contact Me ✉</a>
@@ -26,17 +29,17 @@ export default function Hero() {
           <div className="hero-visual">
             <div className="hero-card-3d">
               <div className="card-float card-main">
-                <div className="avatar-ring">
+                {/* <div className="avatar-ring">
                   <div className="avatar-inner">PS</div>
-                </div>
-                <h3>Pranay Sawant</h3>
-                <p>UI/UX · Frontend Dev</p>
-                <div className="skill-tags">
+                </div> */}
+                {/* <h3>Pranay Sawant</h3> */}
+                {/* <p>UI/UX · Frontend Dev</p> */}
+                {/* <div className="skill-tags">
                   <span className="skill-tag">Figma</span>
                   <span className="skill-tag">React</span>
                   <span className="skill-tag">CSS</span>
                   <span className="skill-tag">UX Research</span>
-                </div>
+                </div> */}
               </div>
               <div className="card-stat s1">
                 <div className="stat-label">Projects Done</div>

@@ -29,21 +29,21 @@ export default function Contact() {
                   <div className="contact-link-icon">✉️</div>
                   <div className="contact-link-body">
                     <div className="contact-link-label">Email</div>
-                    <div className="contact-link-value">pranay@sawant.design</div>
+                    <div className="contact-link-value">pranaysawant2205@gmail.com</div>
                   </div>
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-link">
+                <a href="https://www.linkedin.com/in/pranay-sawant-22m5/" target="_blank" rel="noopener noreferrer" className="contact-link">
                   <div className="contact-link-icon">💼</div>
                   <div className="contact-link-body">
                     <div className="contact-link-label">LinkedIn</div>
-                    <div className="contact-link-value">linkedin.com/in/pranaysawant</div>
+                    <div className="contact-link-value">linkedin.com/in/pranay-sawant-22m5</div>
                   </div>
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact-link">
+                <a href="https://github.com/pranay66sawant?tab=overview&from=2026-03-01&to=2026-03-17" target="_blank" rel="noopener noreferrer" className="contact-link">
                   <div className="contact-link-icon">⚡</div>
                   <div className="contact-link-body">
                     <div className="contact-link-label">GitHub</div>
-                    <div className="contact-link-value">github.com/pranaysawant</div>
+                    <div className="contact-link-value">github.com/pranay66sawant</div>
                   </div>
                 </a>
               </div>
