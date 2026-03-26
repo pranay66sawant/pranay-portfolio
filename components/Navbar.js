@@ -14,7 +14,7 @@ export default function Navbar() {
   return (
     <>
       <nav>
-        <a className="nav-logo" href="#">PS.</a>
+        <a className="nav-logo" href="#">PranayCreates</a>
         <ul className="nav-links">
           <li><a href="#about">About</a></li>
           <li><a href="#projects">Projects</a></li>
